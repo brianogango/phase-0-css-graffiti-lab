@@ -38,7 +38,7 @@ body {
 
 div#wall #tag-3.slick {
   background: url(../images/tag-3.png) no-repeat;
-  z-index: 5;
+  z-index: 3;
   display: block;
 }
 
